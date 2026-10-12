@@ -1,7 +1,7 @@
 <!-- 1. ШИРОКИЙ БАННЕР С LINUX-ТЯН -->
 <div align="center">
   <!-- Убедись, что картинка лежит в корне репозитория или в папке assets -->
-  <img src="header.png" alt="Arch Linux Banner" width="100%" style="border-radius: 10px;" />
+  <img src="header.jpg" alt="Arch Linux Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
 <br>
